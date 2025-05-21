@@ -1,0 +1,30 @@
+{
+  "is-32fiot-23-110":
+  {
+    "firstName" : "Дмитрій",
+    "lastName" : "Резнік",
+    "course" : "2",
+    "Group" : "IC-32"
+  },
+  "is-32fiot-23-121":
+  {
+    "firstName" : "Юрій",
+    "lastName" : "Черепня",
+    "course" : "2",
+    "Group" : "IC-32"
+  },
+   "is-32fiot-23-122":
+  {
+    "firstName" : "Дмитро",
+    "lastName" : "Шліханов",
+    "course" : "2",
+    "Group" : "IC-32"
+  },
+  "is-32fiot-23-118":
+  {
+    "firstName" : "Тіна",
+    "lastName" : "Топка",
+    "course" : "2",
+    "Group" : "IC-32"
+  }
+}
